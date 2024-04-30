@@ -1,0 +1,16 @@
+{
+  "name": "professional_back-end_project_practice",
+  "version": "1.0.0",
+  "description": "Project Just Like Yutube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon src/index.js"
+  },
+  "author": "Rajendra Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
